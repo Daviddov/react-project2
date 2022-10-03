@@ -1,6 +1,7 @@
-import Player from "./components/Player";
+import Player from "./components/Game";
 import React from 'react';
 import AllPlayers from "./components/AllPlayers";
+
 
 function App7() {
     return (
